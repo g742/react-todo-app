@@ -2,7 +2,7 @@
   "name": "react-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/g742/react-todo-app/tree/master/public",
+  "homepage": "https://github.com/g742/react-todo-app/blob/master/public/index.html",
   "devDependencies": {
     "react-scripts": "0.9.0"
   },
